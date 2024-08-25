@@ -26,7 +26,24 @@ main{
 }
 
 #image{
-    width: 100%;
-    max-width: 900px;
+    max-width: 100%;
+    height: auto;
     margin: 0 auto;
+    object-fit: cover;
+}
+
+#img-caption{
+    text-align: center;
+    padding: 0 1rem;
+    margin: 1rem 0rem;
+}
+
+#middle-section{
+    text-align: center;
+}
+
+#tribute-info{
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
 }
