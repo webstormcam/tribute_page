@@ -14,6 +14,10 @@ main{
     padding: 0.5rem;
 }
 
+h1{
+    font-size:2rem
+}
+
 #img-div{
     display: flex;
     flex-direction: column;
@@ -46,4 +50,12 @@ main{
     max-width: 500px;
     margin: 0 auto;
     text-align: left;
+}
+
+li{
+    margin: 1rem 0rem;
+}
+
+.end-text{
+    text-align: center;
 }
